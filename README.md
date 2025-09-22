@@ -47,11 +47,11 @@ TO_EMAIL: The recipient email address where logs will be sent.
 Clone this repository or copy the main.py file.
 
 Install dependencies:
-``bash
+``
 pip install pynput
 ``
 
 Run the script:
-``bash
+``
 python main.py
 ``
