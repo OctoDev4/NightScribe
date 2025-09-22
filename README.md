@@ -1,5 +1,5 @@
 
- 
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/90adca25-668d-4ca7-bed9-81f8eb0afbd9" /> 
 
 A simple Python keylogger that records keystrokes and periodically sends the logs to an email address using Gmail's SMTP server.
 
